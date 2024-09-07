@@ -1,3 +1,3 @@
 # token-bridge
 
-Use Chainlink CCIP to bridge across multiple chain bi-directionally
+Use Chainlink CCIP to bridge token across multiple chain bi-directionally
